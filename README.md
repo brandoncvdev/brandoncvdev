@@ -1,7 +1,7 @@
 # Hey there! I'm Brandon. 👋
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently working on Angular, Laravel & Node.js Application Development.
+- 🔭 &nbsp; I’m currently working on Angular Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I have studied as a mechatronic engineer.
 - 💼 &nbsp; I work as a Fronted developer.
